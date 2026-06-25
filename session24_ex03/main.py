@@ -247,7 +247,7 @@ def main():
         elif choice == '5' :
             update_point()
         elif choice == '6' :
-            print("")
+            print("Thoát chương trình")
             break
         else :
             print("Vui lòng nhập lại!")
